@@ -1,0 +1,44 @@
+main * {
+  color: white;
+  text-align: center; }
+main div h1 {
+  font-family: 'Amatic SC', cursive;
+  text-shadow: 2px 10px 15px darkred, 0 0 2em black, 0 0 0.4em blue;
+  padding-top: 1.5em;
+  font-size: 6em;
+  font-weight: bold; }
+main div h2 {
+  font-family: 'Amatic SC', cursive;
+  text-shadow: 2px 10px 15px darkred, 0 0 2em blue, 0 0 0.4em blue;
+  padding-top: 5em;
+  padding: 1.2em;
+  font-size: 5em;
+  font-weight: bold; }
+main div p {
+  font-family: 'Orbitron', sans-serif;
+  text-shadow: 2px 10px 15px darkred, 0 0 2em blue, 0 0 0.4em blue; }
+main a {
+  text-shadow: 4px 2px 2px pink, 0 0 2em blue, 0 0 0.4em white;
+  padding-top: 5em;
+  color: white; }
+main a:visited {
+  text-shadow: 4px 2px 2px pink, 0 0 2em blue, 0 0 0.4em white;
+  padding-top: 5em;
+  color: white; }
+main a:hover {
+  text-shadow: 4px 2px 2px pink, 0 0 2em blue, 0 0 0.4em white;
+  padding-top: 5em;
+  color: white; }
+main button.btn:hover {
+  background-color: #E80C7A;
+  border: solid 2px;
+  color: white; }
+main button.btn {
+  background-color: white;
+  color: #E80C7A; }
+main .firstPara {
+  padding: 2em; }
+main .secondPara {
+  padding: 5em; }
+
+/*# sourceMappingURL=lauching_style.css.map */
